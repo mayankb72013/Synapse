@@ -1,6 +1,6 @@
-# Second Brain App
+# Synapse
 
-Welcome to **Second Brain App**, your ultimate tool to store, organize, and retrieve knowledge effectively. Whether you're brainstorming ideas, managing tasks, or capturing inspirations, this app is designed to enhance your productivity and creativity.
+Welcome to **Synapse**, your ultimate tool to store, organize, and retrieve knowledge effectively. Whether you're brainstorming ideas, managing tasks, or capturing inspirations, this app is designed to enhance your productivity and creativity.
 
 ## Features
 
@@ -14,11 +14,11 @@ Welcome to **Second Brain App**, your ultimate tool to store, organize, and retr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/second-brain-app.git
+   git clone https://github.com/yourusername/synapse.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd second-brain-app
+   cd synapse
    ```
 3. Install dependencies:
    ```bash
@@ -62,8 +62,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-If you encounter any issues or have questions, feel free to [open an issue](https://github.com/yourusername/second-brain-app/issues) or contact us at support@secondbrainapp.com.
+If you encounter any issues or have questions, feel free to [open an issue](https://github.com/yourusername/synapse/issues) or contact us at support@synapse.com.
 
 ---
 
-**Let your ideas flow and grow with Second Brain App!**
+**Let your ideas flow and grow with Synapse!**
